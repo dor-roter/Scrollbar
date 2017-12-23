@@ -7,14 +7,16 @@ Use
 -------------
     CSS:
   
-    `@import 'path/to/scrollbar.css';`
+    ```
+    @import 'path/to/scrollbar.css';
+    ```
     
 **Or**    
     
     HTML:
-  
-    `<link rel="stylesheet" href="path/to/scrollbar.css" />`
-    
+    ```
+    <link rel="stylesheet" href="path/to/scrollbar.css" />
+    ```
 
 Compatibility 
 -------------
