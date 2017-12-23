@@ -6,14 +6,14 @@ A css style for a costume scorllbar in -webkit- supported browsers.
 Use 
 -------------
    CSS:
-```
+``` css
     @import 'path/to/scrollbar.css';
 ```
     
 **Or**    
     
     HTML:
-```
+``` html
     <link rel="stylesheet" href="path/to/scrollbar.css" />
 ```
 
