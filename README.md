@@ -4,13 +4,13 @@ A css style for a costume scorllbar in -webkit- supported browsers.
 
 Use 
 -------------
-  CSS:
+    CSS:
   
     `@import 'path/to/scrollbar.css';`
     
 **Or**    
     
-  HTML:
+    HTML:
   
     `<link rel="stylesheet" href="path/to/scrollbar.css" />`
     
