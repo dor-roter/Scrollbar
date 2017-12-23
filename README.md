@@ -1,4 +1,4 @@
-# Scrollbar.css
+# Scrollbar
 
 A css style for a costume scorllbar in -webkit- supported browsers. 
 
